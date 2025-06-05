@@ -5,6 +5,7 @@ import java.util.Random;
 import javax.swing.*;
 
 //Some change to test changing to a branch
+//Another change to test submitting the change through the GUI
 
 public class SnakeGame extends JPanel implements ActionListener, KeyListener {
     private class Tile {
